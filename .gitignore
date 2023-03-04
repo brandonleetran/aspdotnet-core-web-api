@@ -1,0 +1,16 @@
+# .NET Core build directories
+bin/
+obj/
+
+# Visual Studio Code configuration files
+.vscode/
+
+# JetBrains IDE configuration files
+.idea/
+
+# Visual Studio configuration files
+.vs/
+
+# Cache and temporary files
+*.cache
+*.tmp
